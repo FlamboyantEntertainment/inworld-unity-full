@@ -25,7 +25,7 @@
   "type": "library",
   "unityRelease": "48f1",
   "repository": {
-    "url": "https://github.com/inworld-ai/inworld-unity-core.git",
+    "url": "https://github.com/FlamboyantEntertainment/inworld-unity-full.git",
     "type": "git",
     "revision": "9446a3fd6297c3991175456670d344086a28b06f"
   },
